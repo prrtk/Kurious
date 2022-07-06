@@ -1,3 +1,3 @@
 # Kurious
 
-Kurious: A coding project for searching through text in javascript
+Kurious: A web project for searching through text in javascript
